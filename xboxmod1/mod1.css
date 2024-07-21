@@ -6,41 +6,4 @@
     /*    margin-left: -375px;
         margin-top: -285px;*/
 
-.xbox.disconnected {
-    background: url(disconnectedmod1.png);
-}
-
-.xbox.disconnected div {
-    display: none;
-}
-
-.xbox .bumper {
-    width: 170px;
-    height: 61px;
-    background: url(bumpermod1.png);
-    opacity: 0;
-}
-
-.xbox .bumpers {
-    position: absolute;
-    width: 536px;
-    height: 61px;
-    left: 107px;
-    top: 129px;
-}
-
-.xbox .bumper.pressed {
-    opacity: 1;
-}
-
-.xbox .bumper.left {
-    float: left;
-}
-
-.xbox .bumper.right {
-    float: right;
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-}
-
 /*END Xbox One Controller Styling*//
