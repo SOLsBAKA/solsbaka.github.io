@@ -7,7 +7,7 @@
         margin-top: -285px;*/
 
 .xbox.disconnected {
-    background: url(disconnectedmod1.png);
+    background: url(disconnectedmod2.png);
 }
 
 .xbox.disconnected div {
@@ -17,7 +17,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumpermod1.png);
+    background: url(bumpermod2.png);
     opacity: 0;
 }
 
