@@ -7,7 +7,7 @@
         margin-top: -285px;*/
 
 .xbox.disconnected {
-    background: url(disconnected2.png);
+    background: url(disconnectedwave.png);
 }
 
 .xbox.disconnected div {
@@ -17,7 +17,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumpermod2.png);
+    background: url(bumperwave.png);
     opacity: 0;
 }
 
@@ -43,4 +43,4 @@
     transform: rotateY(180deg);
 }
 
-/*END Xbox One Controller Styling*//
+/*END Xbox One Controller Styling*/
