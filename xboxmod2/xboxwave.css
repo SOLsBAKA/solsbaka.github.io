@@ -5,13 +5,14 @@
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
+}
+
+.xbox.white {
+    background: url(xbox-assets/base-white.svg);
+}
 
 .xbox.disconnected {
     background: url(disconnectedwave.png);
-}
-
-.xbox.disconnected div {
-    display: none;
 }
 
 .xbox .bumper {
